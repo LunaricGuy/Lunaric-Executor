@@ -11,3 +11,5 @@ Open Command Prompt then write: cd Desktop enter write: cd Lunar Executor enter 
 if you rename the executor you should still type ".py" at the end You may encounter some bugs.
 
 ALSO TRIED FIXING LUNAR 1.1 IF 1.2 DOES NOT WORK
+
+Also the reason why the files are so large is because of the big scripts.
